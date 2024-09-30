@@ -1,0 +1,15 @@
+{
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "herohost:dungeon/room/room_small_00",
+                "projection": "rigid",
+                "processors": "herohost:dungeon",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 30
+        }
+    ]
+}

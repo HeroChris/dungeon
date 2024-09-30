@@ -1,0 +1,15 @@
+{
+    "fallback": "herohost:dungeon/terminator",
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "herohost:dungeon/connector/wall_tall_00",
+                "projection": "rigid",
+                "processors": "herohost:dungeon",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 40
+        }
+    ]
+}

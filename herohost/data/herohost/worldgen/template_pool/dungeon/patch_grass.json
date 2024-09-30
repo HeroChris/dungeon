@@ -1,0 +1,19 @@
+{
+    "fallback": "herohost:dungeon/patch_grass",
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:feature_pool_element",
+                "feature": "herohost:patch_grass",
+                "projection": "rigid"
+            },
+            "weight": 60 
+        },
+        {
+            "element": {
+                "element_type": "minecraft:empty_pool_element"
+            },
+            "weight": 10
+        }
+    ]
+}

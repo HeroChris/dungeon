@@ -1,0 +1,14 @@
+{
+    "placement": {
+        "type": "minecraft:random_spread",
+        "spacing": 32,
+        "separation": 20,
+        "salt": 1894286
+    },
+    "structures": [
+        {
+            "structure": "herohost:dungeon",
+            "weight": 1
+        }
+    ]
+}

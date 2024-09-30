@@ -1,0 +1,24 @@
+{
+    "values": [
+        "minecraft:plains",
+        "minecraft:frozen_peaks",
+        "minecraft:swamp",
+        "minecraft:badlands",
+        "minecraft:jungle",
+        "minecraft:bamboo_jungle",
+        "minecraft:snowy_plains",
+        "minecraft:snowy_slopes",
+        "minecraft:taiga",
+        "minecraft:savanna",
+        "minecraft:savanna_plateau",
+        "minecraft:windswept_savanna",
+        "minecraft:birch_forest",
+        "minecraft:mushroom_fields",
+        "minecraft:dripstone_caves",
+        "minecraft:lush_caves",
+        "minecraft:sunflower_plains",
+        "minecraft:meadow",
+        "minecraft:dark_forest",
+        "minecraft:forest"
+    ]
+}

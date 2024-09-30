@@ -1,0 +1,45 @@
+{
+    "fallback": "herohost:dungeon/terminator",
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "herohost:dungeon/connector/wall_tall_00",
+                "projection": "rigid",
+                "processors": "herohost:dungeon",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 30
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "herohost:dungeon/connector/opening_tall_00",
+                "projection": "rigid",
+                "processors": "herohost:dungeon",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 50
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "herohost:dungeon/connector/opening_tall_01",
+                "projection": "rigid",
+                "processors": "herohost:dungeon",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 20
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "herohost:dungeon/connector/opening_tall_02",
+                "projection": "rigid",
+                "processors": "herohost:dungeon",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 10
+        }
+    ]
+}

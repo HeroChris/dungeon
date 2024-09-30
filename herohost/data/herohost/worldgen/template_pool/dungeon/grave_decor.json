@@ -1,0 +1,141 @@
+{
+    "fallback": "herohost:dungeon/grave_decor",
+    "elements": [
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "herohost:dungeon/decor/grave_00",
+                "projection": "rigid",
+                "processors": "herohost:dungeon",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 60
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "herohost:dungeon/decor/grave_01",
+                "projection": "rigid",
+                "processors": "herohost:dungeon",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 30
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "herohost:dungeon/decor/grave_02",
+                "projection": "rigid",
+                "processors": "herohost:dungeon",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 30
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "herohost:dungeon/decor/grave_03",
+                "projection": "rigid",
+                "processors": "herohost:dungeon",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 30
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "herohost:dungeon/decor/grave_04",
+                "projection": "rigid",
+                "processors": "herohost:dungeon",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 30
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "herohost:dungeon/decor/grave_05",
+                "projection": "rigid",
+                "processors": "herohost:dungeon",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 10
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "herohost:dungeon/decor/grave_06",
+                "projection": "rigid",
+                "processors": "herohost:dungeon",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 10
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "herohost:dungeon/decor/grave_07",
+                "projection": "rigid",
+                "processors": "herohost:dungeon",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 10
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "herohost:dungeon/decor/grave_08",
+                "projection": "rigid",
+                "processors": "herohost:dungeon",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 10
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "herohost:dungeon/decor/grave_09",
+                "projection": "rigid",
+                "processors": "herohost:dungeon",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 10
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "herohost:dungeon/decor/grave_10",
+                "projection": "rigid",
+                "processors": "herohost:dungeon",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 10
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "herohost:dungeon/decor/grave_11",
+                "projection": "rigid",
+                "processors": "herohost:dungeon",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 10
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "herohost:dungeon/decor/grave_12",
+                "projection": "rigid",
+                "processors": "herohost:dungeon",
+                "override_liquid_settings": "ignore_waterlogging"
+            },
+            "weight": 10
+        },
+        {
+            "element": {
+                "element_type": "minecraft:empty_pool_element"
+            },
+            "weight": 30
+        }
+    ]
+}
